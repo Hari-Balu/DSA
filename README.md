@@ -1,6 +1,6 @@
 # 🧮 Data Structures & Algorithms (DSA) 
 
-Welcome to my **DSA Learnings** repository!  
+Welcome to my **DSA** repository!  
 This is a structured collection of my journey through Data Structures and Algorithms — solving problems, understanding complexities, and preparing for coding interviews. The repo includes categorized practice problems, explanations, and optimized code implementations.
 
 ---
